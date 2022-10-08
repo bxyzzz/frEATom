@@ -1,0 +1,37 @@
+.header{
+  background-color: #87634B;
+  background-position: right;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50px;
+  border-color: #B787668F;
+  border-width: 10px;
+  border-style: groove;
+  font-size: 40px;
+  font-style: italic;
+  #font-weight: bold;
+  font-family: Lucida Handwriting, Verdana;
+  color: #FFFFFF;
+  background-image: url("frEATdom_title_background2.jpg");
+}
+/*
+# Add scrim to banner/text background to make text more readible
+# Can't get it working bc im bad at html
+*/
+overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: radial-gradient(ellipse at center, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0) 60%);
+}
+
+img{
+    background-color: transparent;
+    width:9%;
+    height: contain;
+    position: absolute;
+    left: 30%;
+    top: 5%;
+}

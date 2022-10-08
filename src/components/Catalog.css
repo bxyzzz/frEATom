@@ -1,0 +1,36 @@
+.catalog{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    margin: 100px;
+}
+
+
+div2{
+   background-color: #B7876699;
+   position: absolute;
+   left: 8%;
+   top: 30%;
+   border-width: 3px;
+   border-style: ridge;
+   border-color: #6830005F;
+   border-radius: 25px;
+   padding: 10px;
+   margin: 20px;
+   color: #FFFFFF;
+   font-family: Lucida Handwriting, Helvetica, Verdana;
+   #font-weight: bold;
+   font-size: 40px;
+}
+
+div3{
+   background-color: #B7876699;
+   padding: 10px;
+   margin: 5px;
+   border-width: 3px;
+   border-style: ridge;
+   border-color: #6830005F;
+   border-radius: 25px;
+}

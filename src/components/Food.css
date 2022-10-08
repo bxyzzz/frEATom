@@ -1,0 +1,25 @@
+.Food{
+   background-color: #B7876633;
+   padding: 10px;
+   margin: 5px;
+   border-width: 3px;
+   border-style: ridge;
+   border-color: #6830005F;
+   border-radius: 25px;
+}
+
+h5{
+   font-family: Georgia, Verdana, Helvetica;
+   font-weight: normal;
+   font-size: 15px;
+ 
+}
+
+h6{
+   font-family: Georgia, Verdana, Helvetica;
+   font-weight: bold;
+   font-size: 18px;
+   color: #471D00DD;
+   margin: 5px;
+   padding: 3px;
+}
